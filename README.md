@@ -1,4 +1,4 @@
-# Tweet-classifier-Logistic-Regression
+# Tweet-Sentiment-Classifier-Logistic-Regression
 
 Sentiment classifier for a tweet dataset using TF-IDF Vectorizer for feature extraction and Logistic Regression for classification
 
